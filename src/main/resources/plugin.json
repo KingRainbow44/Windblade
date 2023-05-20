@@ -1,0 +1,7 @@
+{
+  "name": "Windblade",
+  "description": "A WindSeedClientNotify helper.",
+  "version": "1.0.0",
+
+  "mainClass": "io.grasscutter.windblade.Windblade"
+}
